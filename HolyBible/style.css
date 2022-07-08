@@ -1,0 +1,139 @@
+header {
+	background: #B0E0E6;
+	padding: 20px 0;
+}
+
+.oracoes {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+h1 img {
+	width: 300px;
+	margin: 0 0 0 50px;
+}
+
+h1 p {
+	margin: -21px 0px -16px 101px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+nav {
+	position: absolute;
+	top: 150px;
+	right: 0px;
+	width: 500px;
+	margin: 0 auto;
+}
+
+nav li {
+	display: inline;
+	text-transform: uppercase;
+	margin: 0 0 0 10px;
+
+}
+
+nav a {
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+nav a:hover {
+	color: #2F4F4F;
+}
+
+.second {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.second li {
+	display: inline-block;
+	text-align: center;
+	box-sizing: border-box;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5% 4%;
+	padding: 30px 20px;
+	border: 2px solid #000000;
+	border-radius: 20px 30px;
+}
+
+.second li:hover {
+	border-color: blue;
+	font-size: 25px;	
+}
+
+.second li:active {
+	border-color: #90EE90;
+	color: #90EE90;
+}
+
+.second h2 {
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0 0 20px;
+}
+
+
+footer {
+	background: #B0E0E6;
+	text-align: center;
+}
+
+.textrdp {
+	font-weight: bold;
+}
+
+footer img{
+	width: 250px;
+}
+
+main {
+	width: 1720px;
+	margin: 0 auto;
+
+}
+
+form {
+	margin: 700px 0;
+}
+
+form label, form legend {
+	display: block;
+	font-size: 20px;
+	margin: 30px 10px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+}
+
+.checkbox {
+	margin: 20px 0;
+}
+
+.buton {
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 30px 70px;
+	background: lightblue;
+	margin: 50px 0px;
+	border-radius: 50px;
+	border-width: 0;
+}
+
+.buton:hover {
+	background: royalblue;
+	transition: 3s all;
+	cursor: pointer;
+	transform:scale(1.4);
+}

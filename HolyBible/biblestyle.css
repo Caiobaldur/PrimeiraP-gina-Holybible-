@@ -1,0 +1,41 @@
+header {
+	text-align: center;
+	font-size: 30px;
+	color: blue;
+}
+
+body {
+	text-align: center;
+	font-size: 20px;
+	padding: 5px;
+}
+
+.banner {
+	width: 75%;
+	height: 400px;
+}
+
+ul {
+	display: inline-block;
+}
+
+.praticas {
+	text-align: left;
+	background: #00ffff;
+	display: inline-block;
+}
+
+
+#saulo {
+	background: #0fff00;
+	display: inline-block;
+}
+
+.segunda-parte {
+	text-align: left;
+}
+
+
+.nsra {
+	height: 350px;
+}
